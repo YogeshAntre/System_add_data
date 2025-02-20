@@ -1,0 +1,5 @@
+
+Django==4.2
+gunicorn==20.1.0
+djangorestframework
+mysqlclient==2.1.1
